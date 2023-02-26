@@ -1,0 +1,20 @@
+GIT NOTES
+
+git status 
+- get status of current branch being worked on
+
+git add FILE.HTML
+- add specific file to git branch for staging
+
+git add .
+- add all files to git branch for staging
+
+git restore --staged FILE.HTML
+- remove specific file from staging 
+
+git restore --staged .
+- remove all uncommitted files from staging
+
+git commit -m "MESSAGE"
+- commit 
+
